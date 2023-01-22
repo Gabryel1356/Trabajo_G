@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rosalin Mantari\\Documents\\a\\trabajo_grupal\\MS.Paciente.Aplicacion\\MS.Paciente.Aplicacion.csproj": {}
+    "C:\\Users\\Rosalin Mantari\\Documents\\Trabajo_G\\MS.Paciente.Aplicacion\\MS.Paciente.Aplicacion.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rosalin Mantari\\Documents\\a\\trabajo_grupal\\MS.Paciente.Aplicacion\\MS.Paciente.Aplicacion.csproj": {
+    "C:\\Users\\Rosalin Mantari\\Documents\\Trabajo_G\\MS.Paciente.Aplicacion\\MS.Paciente.Aplicacion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rosalin Mantari\\Documents\\a\\trabajo_grupal\\MS.Paciente.Aplicacion\\MS.Paciente.Aplicacion.csproj",
+        "projectUniqueName": "C:\\Users\\Rosalin Mantari\\Documents\\Trabajo_G\\MS.Paciente.Aplicacion\\MS.Paciente.Aplicacion.csproj",
         "projectName": "MS.Paciente.Aplicacion",
-        "projectPath": "C:\\Users\\Rosalin Mantari\\Documents\\a\\trabajo_grupal\\MS.Paciente.Aplicacion\\MS.Paciente.Aplicacion.csproj",
+        "projectPath": "C:\\Users\\Rosalin Mantari\\Documents\\Trabajo_G\\MS.Paciente.Aplicacion\\MS.Paciente.Aplicacion.csproj",
         "packagesPath": "C:\\Users\\Rosalin Mantari\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rosalin Mantari\\Documents\\a\\trabajo_grupal\\MS.Paciente.Aplicacion\\obj\\",
+        "outputPath": "C:\\Users\\Rosalin Mantari\\Documents\\Trabajo_G\\MS.Paciente.Aplicacion\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

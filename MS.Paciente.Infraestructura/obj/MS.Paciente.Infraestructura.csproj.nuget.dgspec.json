@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rosalin Mantari\\Documents\\a\\trabajo_grupal\\MS.Paciente.Infraestructura\\MS.Paciente.Infraestructura.csproj": {}
+    "C:\\Users\\Rosalin Mantari\\Documents\\Trabajo_G\\MS.Paciente.Infraestructura\\MS.Paciente.Infraestructura.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rosalin Mantari\\Documents\\a\\trabajo_grupal\\MS.Paciente.Infraestructura\\MS.Paciente.Infraestructura.csproj": {
+    "C:\\Users\\Rosalin Mantari\\Documents\\Trabajo_G\\MS.Paciente.Infraestructura\\MS.Paciente.Infraestructura.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rosalin Mantari\\Documents\\a\\trabajo_grupal\\MS.Paciente.Infraestructura\\MS.Paciente.Infraestructura.csproj",
+        "projectUniqueName": "C:\\Users\\Rosalin Mantari\\Documents\\Trabajo_G\\MS.Paciente.Infraestructura\\MS.Paciente.Infraestructura.csproj",
         "projectName": "MS.Paciente.Infraestructura",
-        "projectPath": "C:\\Users\\Rosalin Mantari\\Documents\\a\\trabajo_grupal\\MS.Paciente.Infraestructura\\MS.Paciente.Infraestructura.csproj",
+        "projectPath": "C:\\Users\\Rosalin Mantari\\Documents\\Trabajo_G\\MS.Paciente.Infraestructura\\MS.Paciente.Infraestructura.csproj",
         "packagesPath": "C:\\Users\\Rosalin Mantari\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rosalin Mantari\\Documents\\a\\trabajo_grupal\\MS.Paciente.Infraestructura\\obj\\",
+        "outputPath": "C:\\Users\\Rosalin Mantari\\Documents\\Trabajo_G\\MS.Paciente.Infraestructura\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

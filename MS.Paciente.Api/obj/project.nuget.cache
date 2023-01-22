@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "P/xWP34+74YXBQiq4QUt5kQto1nzu1dJ8RrVvXSudGj0a/iPVvy0Vb4eiTNf91wx2J3sPNOc2ifko2ecw8gmfw==",
+  "dgSpecHash": "Qf7YHkKSbyyat4OK0CZxxkvsPtvoiNkVoMSHSSZezXwFtC0wwqQkyRFZozSHutPFdrxtCRa9D5SbXHM66GXGWw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rosalin Mantari\\Documents\\a\\trabajo_grupal\\MS.Paciente.Api\\MS.Paciente.Api.csproj",
+  "projectFilePath": "C:\\Users\\Rosalin Mantari\\Documents\\Trabajo_G\\MS.Paciente.Api\\MS.Paciente.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rosalin Mantari\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Rosalin Mantari\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

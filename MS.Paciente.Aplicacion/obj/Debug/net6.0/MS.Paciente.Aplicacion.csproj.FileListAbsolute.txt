@@ -1,0 +1,12 @@
+C:\Users\Rosalin Mantari\Documents\a\trabajo_grupal\MS.Paciente.Aplicacion\bin\Debug\net6.0\MS.Paciente.Aplicacion.deps.json
+C:\Users\Rosalin Mantari\Documents\a\trabajo_grupal\MS.Paciente.Aplicacion\bin\Debug\net6.0\MS.Paciente.Aplicacion.dll
+C:\Users\Rosalin Mantari\Documents\a\trabajo_grupal\MS.Paciente.Aplicacion\bin\Debug\net6.0\MS.Paciente.Aplicacion.pdb
+C:\Users\Rosalin Mantari\Documents\a\trabajo_grupal\MS.Paciente.Aplicacion\obj\Debug\net6.0\MS.Paciente.Aplicacion.csproj.AssemblyReference.cache
+C:\Users\Rosalin Mantari\Documents\a\trabajo_grupal\MS.Paciente.Aplicacion\obj\Debug\net6.0\MS.Paciente.Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rosalin Mantari\Documents\a\trabajo_grupal\MS.Paciente.Aplicacion\obj\Debug\net6.0\MS.Paciente.Aplicacion.AssemblyInfoInputs.cache
+C:\Users\Rosalin Mantari\Documents\a\trabajo_grupal\MS.Paciente.Aplicacion\obj\Debug\net6.0\MS.Paciente.Aplicacion.AssemblyInfo.cs
+C:\Users\Rosalin Mantari\Documents\a\trabajo_grupal\MS.Paciente.Aplicacion\obj\Debug\net6.0\MS.Paciente.Aplicacion.csproj.CoreCompileInputs.cache
+C:\Users\Rosalin Mantari\Documents\a\trabajo_grupal\MS.Paciente.Aplicacion\obj\Debug\net6.0\MS.Paciente.Aplicacion.dll
+C:\Users\Rosalin Mantari\Documents\a\trabajo_grupal\MS.Paciente.Aplicacion\obj\Debug\net6.0\refint\MS.Paciente.Aplicacion.dll
+C:\Users\Rosalin Mantari\Documents\a\trabajo_grupal\MS.Paciente.Aplicacion\obj\Debug\net6.0\MS.Paciente.Aplicacion.pdb
+C:\Users\Rosalin Mantari\Documents\a\trabajo_grupal\MS.Paciente.Aplicacion\obj\Debug\net6.0\ref\MS.Paciente.Aplicacion.dll

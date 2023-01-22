@@ -10,3 +10,15 @@ C:\Users\Rosalin Mantari\Documents\a\trabajo_grupal\MS.Paciente.Dominio\obj\Debu
 C:\Users\Rosalin Mantari\Documents\a\trabajo_grupal\MS.Paciente.Dominio\obj\Debug\net6.0\refint\MS.Paciente.Dominio.dll
 C:\Users\Rosalin Mantari\Documents\a\trabajo_grupal\MS.Paciente.Dominio\obj\Debug\net6.0\MS.Paciente.Dominio.pdb
 C:\Users\Rosalin Mantari\Documents\a\trabajo_grupal\MS.Paciente.Dominio\obj\Debug\net6.0\ref\MS.Paciente.Dominio.dll
+C:\Users\Rosalin Mantari\Documents\Trabajo_G\MS.Paciente.Dominio\bin\Debug\net6.0\MS.Paciente.Dominio.deps.json
+C:\Users\Rosalin Mantari\Documents\Trabajo_G\MS.Paciente.Dominio\bin\Debug\net6.0\MS.Paciente.Dominio.dll
+C:\Users\Rosalin Mantari\Documents\Trabajo_G\MS.Paciente.Dominio\bin\Debug\net6.0\MS.Paciente.Dominio.pdb
+C:\Users\Rosalin Mantari\Documents\Trabajo_G\MS.Paciente.Dominio\obj\Debug\net6.0\MS.Paciente.Dominio.csproj.AssemblyReference.cache
+C:\Users\Rosalin Mantari\Documents\Trabajo_G\MS.Paciente.Dominio\obj\Debug\net6.0\MS.Paciente.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rosalin Mantari\Documents\Trabajo_G\MS.Paciente.Dominio\obj\Debug\net6.0\MS.Paciente.Dominio.AssemblyInfoInputs.cache
+C:\Users\Rosalin Mantari\Documents\Trabajo_G\MS.Paciente.Dominio\obj\Debug\net6.0\MS.Paciente.Dominio.AssemblyInfo.cs
+C:\Users\Rosalin Mantari\Documents\Trabajo_G\MS.Paciente.Dominio\obj\Debug\net6.0\MS.Paciente.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Rosalin Mantari\Documents\Trabajo_G\MS.Paciente.Dominio\obj\Debug\net6.0\MS.Paciente.Dominio.dll
+C:\Users\Rosalin Mantari\Documents\Trabajo_G\MS.Paciente.Dominio\obj\Debug\net6.0\refint\MS.Paciente.Dominio.dll
+C:\Users\Rosalin Mantari\Documents\Trabajo_G\MS.Paciente.Dominio\obj\Debug\net6.0\MS.Paciente.Dominio.pdb
+C:\Users\Rosalin Mantari\Documents\Trabajo_G\MS.Paciente.Dominio\obj\Debug\net6.0\ref\MS.Paciente.Dominio.dll

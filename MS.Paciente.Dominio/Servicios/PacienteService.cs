@@ -9,7 +9,21 @@ using dominio = MS.Paciente.Dominio.Entidades;
 
 namespace MS.Paciente.Dominio.Servicios
 {
-    internal class ProductoService
+
+    public class PacienteService
     {
+        private IMongoCollection<dominio.Paciente> _paciente;
+
+        public PacienteService(IDBSettings dBSettings)
+        {
+            var cliente = new MongoClient(dBSettings.Server);
+            var database = cliente.GetDatabase(dBSettings.Database);
+            _paciente = database.GetCollection<dominio.Paciente>(dBSettings.Collection);
+        }
+
+        public List<dominio.Paciente> ListarPacientes()
+        {
+            return _paciente.Find(x => true).ToList();
+        }
     }
 }

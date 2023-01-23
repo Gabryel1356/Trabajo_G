@@ -6,4 +6,15 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+	<ItemGroup>
+		<Folder Include="Categoria\" />
+		<Folder Include="Paciente\Write\" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\MS.Paciente.Dominio\MS.Paciente.Dominio.csproj" />
+		<ProjectReference Include="..\MS.Paciente.Infraestructura\MS.Paciente.Infraestructura.csproj" />
+	</ItemGroup>
+	
+	
 </Project>

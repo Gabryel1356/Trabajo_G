@@ -6,8 +6,22 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
-  <ItemGroup>
-    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
-  </ItemGroup>
+
+
+	<ItemGroup>
+		<Compile Remove="Paciente.cs" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\MS.Paciente.Aplicacion\MS.Paciente.Aplicacion.csproj" />
+		<ProjectReference Include="..\MS.Paciente.Dominio\MS.Paciente.Dominio.csproj" />
+		<ProjectReference Include="..\MS.Paciente.Infraestructura\MS.Paciente.Infraestructura.csproj" />
+	</ItemGroup>
+	
+	
 
 </Project>

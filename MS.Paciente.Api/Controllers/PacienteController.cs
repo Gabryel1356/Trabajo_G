@@ -19,7 +19,14 @@ namespace MS.Paciente.Api.Controllers
 
 
 
-     
+        [HttpGet(RoutePaciente.GetAll)]
+        public IEnumerable<dominio.Paciente> ListarPaciente()
+        {
+
+            var listaPaciente = db.ListarPacientes();
+
+            return listaPaciente;
+        }
 
 
         [HttpGet(RoutePaciente.GetById)]

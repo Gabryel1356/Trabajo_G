@@ -67,7 +67,7 @@ namespace MS.Paciente.Api.Controllers
             var collection = database.GetCollection<dominio.Paciente>("Paciente");
             #endregion
 
-            collection.FindOneAndReplace(x => x._id == Paciente._id, Paciente);
+            collection.FindOneAndReplace(x => x.idPac == Paciente.idPac, Paciente);
 
 
             return Ok();

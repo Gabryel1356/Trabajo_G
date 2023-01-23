@@ -59,7 +59,7 @@ namespace MS.Paciente.Api.Controllers
         }
 
         [HttpPut(RoutePaciente.Update)]
-        public ActionResult<dominio.Paciente> ModificarPaciente(dominio.Paciente Paciente)
+        public ActionResult<dominio.Paciente> ModificarPaciente(int id, dominio.Paciente paciente)
         {
             #region Conexión a base de datos
             var client = new MongoClient("mongodb://localhost:27017");
@@ -67,10 +67,25 @@ namespace MS.Paciente.Api.Controllers
             var collection = database.GetCollection<dominio.Paciente>("Paciente");
             #endregion
 
-            collection.FindOneAndReplace(x => x.idPac == Paciente.idPac, Paciente);
+            var objPaciente = collection.Find(x => x.idPac == id).FirstOrDefault();
 
 
-            return Ok();
+            if (objPaciente != null)
+            {
+                objPaciente._id = paciente._id;
+                objPaciente.idPac = paciente.idPac;
+                objPaciente.Nombre = paciente.Nombre;
+                objPaciente.apepa = paciente.apepa;
+                objPaciente.apema = paciente.apema;
+                objPaciente.edad = paciente.edad;
+                objPaciente.seguro = paciente.seguro;
+                objPaciente.Fecha_ingreso = paciente.Fecha_ingreso;
+
+                collection.ReplaceOne(x => x.idPac == objPaciente.idPac, objPaciente);
+            }
+
+
+            return objPaciente;
         }
 
         [HttpDelete(RoutePaciente.Delete)]
